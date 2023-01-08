@@ -1,0 +1,3 @@
+﻿  Roll Dice.cpp
+C:\Users\mehrd\source\repos\Roll Dice\Roll Dice\Roll Dice.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Roll Dice.vcxproj -> C:\Users\mehrd\source\repos\Roll Dice\x64\Debug\Roll Dice.exe
